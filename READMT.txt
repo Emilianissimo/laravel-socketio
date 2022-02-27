@@ -1,0 +1,12 @@
+# Getting started
+
+### Composer
+
+### NodeJS
+
+### Redis
+You have to install redis:
+```bash
+    sudo apt install redis-server
+```
+Start it and make new user:
